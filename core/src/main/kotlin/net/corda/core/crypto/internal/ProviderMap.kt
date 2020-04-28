@@ -1,3 +1,4 @@
+@file:JvmName("ProviderMap")
 package net.corda.core.crypto.internal
 
 import net.corda.core.DeleteForDJVM
